@@ -147,5 +147,5 @@ java {
 
 application {
     // Define the main class for the application.
-    mainClass = 'lightweight.main'
+    mainClass = 'lightweight.run'
 }
